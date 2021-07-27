@@ -139,11 +139,11 @@ Vì vậy đã có nhiều ngôn ngữ ra đời để thay thế HTML làm ngô
       - Ví dụ : 
        
        ```
-        [Facebook : Nguyễn Đức Thông](https://www. facebook.com/1824ttd)
+        [Facebook](https://shopee.vn/)
        ```
       - Kết quả :
          
-        [Facebook: Nguyễn Đức Thông](https://www.facebook.com/1824ttd) 
+        [Shopee](https://shopee.vn/) 
  
    1. Ký tự in đậm, in nghiêng
       
@@ -249,4 +249,4 @@ Vì vậy đã có nhiều ngôn ngữ ra đời để thay thế HTML làm ngô
  
 
 ##### NOTE
-- Bản quyền thuộc về : Coding Dev (Nguyễn Đức Thông) .  
+- Bản quyền thuộc về : Coding Dev (  [Facebook: Nguyễn Đức Thông](https://www.facebook.com/1824ttd) ) .  
