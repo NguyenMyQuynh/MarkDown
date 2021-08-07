@@ -1,13 +1,27 @@
 Link to the other file: [Support](support_demo.md)
 <br>
 </br>
-
-<details>	
-  <summary>☄️ Github Streaks</summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  
+## sai 
+<details>
+  <summary>Previous games</summary>
+ <br >
+- d
+- u
 </details>
+  
+
+## đúng
+<details>
+  <summary>Previous games</summary>
+ <br >
+  
+- d
+- u
+</details>
+
+<br>
+</br>
 
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
