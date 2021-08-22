@@ -3,7 +3,7 @@
   1. Giới thiệu về ngôn ngữ MarkDown.
   2. Các bước cơ bản ban đầu để sử dụng MarkDown.
   3. Cú pháp cơ bản của MarkDown.
-  4. Cách xuất MarkDownd ra file PDF, HTML, Json, PNG, JPEG.
+  4. Cách xuất MarkDownd ra file PDF, HTML, Json, PNG, JPEG và sử dụng Math Markdown.
   5. Các nguồn tài liệu về MarkDown.
 ## 1 )  
 ## Markdown là gì?
@@ -199,7 +199,7 @@ Vì vậy đã có nhiều ngôn ngữ ra đời để thay thế HTML làm ngô
          ``` 
 
 ## 4 )
-## Cách xuất MarkDownd ra file PDF, HTML, Json, PNG, JPEG.
+## Cách xuất MarkDownd ra file PDF, HTML, Json, PNG, JPEG và sử dụng Math Markdown 
    - Như mình đã nói ở mục 2, chúng ta đã tải các plugin hỗ trợ, để sử xuất ra các định dạng khác nhau chúng ta tải : - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) : Export Markdown trực tiếp ra file PDF.
     - Đầu tiên chúng ta click chuột phải bất kì trên màn hình :
 
@@ -239,8 +239,10 @@ Vì vậy đã có nhiều ngôn ngữ ra đời để thay thế HTML làm ngô
       - Khi cần ngắt trang ở vị trí mong muốn bạn chỉ cần gõ pagebreak thì hệ thống gợi ý sẽ gợi ý đoạn thẻ body ra cho bạn. 
 
        ![break](img/break.png)
-
-
+       
+- Sử dụng Math Markdown: 
+  - http://ranalytics.vn/blog/2018/07/18/2018-07-21-viet-cong-thuc-toan-trong-rmarkdown/
+  - https://www.latex4technics.com/
          
 ## 5 )
 ## Các nguồn tài liệu
@@ -249,4 +251,4 @@ Vì vậy đã có nhiều ngôn ngữ ra đời để thay thế HTML làm ngô
  
 
 ##### NOTE
-- Bản quyền thuộc về : Coding Dev (  [Facebook: Nguyễn Đức Thông](https://www.facebook.com/1824ttd) ) .  
+- Tham khảo : Coding Dev (  [Facebook: Nguyễn Đức Thông](https://www.facebook.com/1824ttd) ) .  
