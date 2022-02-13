@@ -122,14 +122,6 @@ Content column 1 | Content column 2
   - [Contact us](#Contactus)
 - [Thank](#thank)
 
-<br>
-</br>
-
-> Link không được có khoảng cách  
-- [Content](#content)
-  - [About us](#about us)
-  - [Contact us](#contact us)
-- [Thank](#thank)
 
 <br>
 </br>
