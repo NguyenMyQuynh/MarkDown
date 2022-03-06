@@ -2,7 +2,7 @@
 
 
 ##### NOTE
-- Tham khảo : Coding Dev (  [Facebook: Nguyễn Đức Thông](https://www.facebook.com/1824ttd) ) .  
+- Tham khảo : Coding Dev (  [Nguyễn Đức Thông](https://github.com/thong2802/Learn-MarkDown) ) .  
 
 <br>
 
