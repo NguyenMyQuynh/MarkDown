@@ -1,4 +1,11 @@
 # Learn MarkDown.
+
+
+##### NOTE
+- Tham khảo : Coding Dev (  [Facebook: Nguyễn Đức Thông](https://www.facebook.com/1824ttd) ) .  
+
+<br>
+
 ## Nội dung.
   1. Giới thiệu về ngôn ngữ MarkDown.
   2. Các bước cơ bản ban đầu để sử dụng MarkDown.
@@ -250,5 +257,3 @@ Vì vậy đã có nhiều ngôn ngữ ra đời để thay thế HTML làm ngô
    -  Các bạn có thể truy cập : [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
  
 
-##### NOTE
-- Tham khảo : Coding Dev (  [Facebook: Nguyễn Đức Thông](https://www.facebook.com/1824ttd) ) .  
