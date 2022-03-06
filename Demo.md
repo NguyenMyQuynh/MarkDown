@@ -116,44 +116,62 @@ Content column 1 | Content column 2
 </br>
 
 
-> Sau # viết thường hay hoa đều được, ở chế độ Preview trường hợp viết hoa không link tới được nhưng khi commit hoàn chỉnh thì được
-- [Content](#content)
-  - [About us](#Aboutus)
-  - [Contact us](#Contactus)
-- [Thank](#thank)
-
-
-<br>
-</br>
-
-- [Content](#content)
-  - [About us](#aboutus)
-  - [Contact us](#contactus)
-- [Thank](#thank)
-
-<br>
-</br>
-
-
 # Content
-## Aboutus
-1. a.
-1. b.
-1. c.
-## Contactus
->ddiskncofjbj
 
-# Thank
+**[1. Shuffle](#heading--1)**
+
+**[2. File MẸO](#heading--2)**
+
+  * [2.1. 1-20 quiz MẸO](#heading--2-1)
+  * [2.2. 21-40 quiz MẸO](#heading--2-2)
+
+  
+  <br>
+<br>
+
+<div id="heading--1"/>
+ 
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+
+## Shuffle:
+- Satisfied (adj - feeling) , satisfying (adj - quality ): thoã mãn
+ <br> EX:
+     - The demonstrators are not satisfied with the government's tax proposals.
+     - a satisfying meal.
+     - My work is very satisfying.
+ <br>
+<br>
+
+<div id="heading--2"/>
+
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+
+## File MẸO: 
+
+<div id="heading--2-1"/>
+
+### 1-20 quiz MẸO: 
+
+- balance + of
+- Amost all of: hầu như tất cả 
+- (ought to = should) + Vo
+- Sau because, although, as là một mệnh đề  
+- be pleased to Vo : sẵn lòng làm gì
+- at/on the weekend    
+- pick me up: đón tui
+- go mad: điên lên
+ 
 
 <br>
-</br>
+ 
+ <div id="heading--2-2"/>
 
-# Content
-## About us
-1. a.
-1. b.
-1. c.
-## Contact us
->ddiskncofjbj
-
-# Thank
+### 21-40 quiz MẸO:
+ 
+ - on + tính từ sở hữu/ sở hữu cách + behalf: nhân danh ai, thay mặt cho ai, đại diện cho ai
+ - none of the + N
+ - advise that sb (should) + V: (lời khuyên)
+ - have to + V: phải làm gì
+ - have to + be + Ving: phải đang làm gì
