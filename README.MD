@@ -247,6 +247,8 @@ Vì vậy đã có nhiều ngôn ngữ ra đời để thay thế HTML làm ngô
 
        ![break](img/break.png)
        
+      - In case the snippet suggestion doesn't popup when you type "comment" then you should type CTRL + Space to force it.
+       
 - Sử dụng Math Markdown: 
   - http://ranalytics.vn/blog/2018/07/18/2018-07-21-viet-cong-thuc-toan-trong-rmarkdown/
   - https://www.latex4technics.com/
